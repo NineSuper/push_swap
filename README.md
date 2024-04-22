@@ -1,8 +1,8 @@
-<h1 align="center">Projet Push_Swap</h1>
+<h1 align="center">Push_Swap 🔄</h1>
 
-Bienvenue dans le dépôt du projet Push_Swap !
+Bienvenue dans le dépôt du projet Push_Swap ! 🚀
 
-Ce projet vise à trier des données en utilisant deux piles et un ensemble limité d'instructions.
+Ce projet vise à trier des données en utilisant deux piles et un ensemble limité d'instructions. 💡
 
 ## Aperçu du Projet
 
