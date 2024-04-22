@@ -1,4 +1,4 @@
-<h1 align="center">Push_Swap 🔄</h1>
+<h1 align="center">Push_Swap</h1>
 
 Bienvenue dans le dépôt du projet Push_Swap ! 🚀
 
